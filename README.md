@@ -27,3 +27,4 @@ Following are some examples:
 |                                                                                   |                                                                                          |                                                                                        |
 
 
+If you clone/download the repository and open the README file, you will be able to compare the animations since they will be synchronized, this might not happen if you are watching this from Github
